@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 public class ConsumoEnergia {
 
     public static void main(String[] args) {
+        String nome = "Breno subiu mais uma versão do código aqui";
         String e;
         
         e = JOptionPane.showInputDialog("Informar o kw/h: ");
